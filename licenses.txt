@@ -1,2 +1,2 @@
-﻿app.default.period=7
+app.default.period=7
 
