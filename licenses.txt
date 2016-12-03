@@ -1,4 +1,2 @@
-﻿[DEFAULT]
-Period=7
+﻿app.default.period=7
 
-[TEST]
