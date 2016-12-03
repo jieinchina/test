@@ -1,0 +1,4 @@
+﻿[DEFAULT]
+Period=7
+
+[TEST]
