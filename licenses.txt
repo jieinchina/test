@@ -1,2 +1,3 @@
-app.default.period=7
-
+# Log options
+app.log.servirity=6;
+app.default.period=7 ;
