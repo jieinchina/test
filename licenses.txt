@@ -1,3 +1,4 @@
 # Log options
 app.log.servirity=6;
-app.default.period=7 ;
+app.default.period=7;
+app.6fe1d1739b455f8d8df5fae4d2e57f06.period=1;mt4quick_wudi
