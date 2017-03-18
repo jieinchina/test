@@ -1,8 +1,1 @@
-# Log options
-app.log.servirity=6;
-app.default.period=7;
-##########################################
-app.6fe1d1739b455f8d8df5fae4d2e57f06.period=1;mt4quick_h
-app.fc26dc273ad697d7b581a7760668a3d8.period=1;
-##########################################
-app.beb04d3b93028f76476d2f6b21150ecd.period=1;mt4quick_wudi
+app.beb04d3b93028f76476d2f6b21150ecd.period=1 ;mt4quick_wudi
